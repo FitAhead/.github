@@ -117,7 +117,8 @@ FitAhead는 단순한 운동 기록 앱을 넘어, 오늘의 생활 기록이 **
 
 ## 👥 팀
 
-임진우 · 김경빈
+- 임진우 · jinwoo9619@gmail.com
+- 김경빈 · kyoungbin1996@gmail.com
 
 ---
 
